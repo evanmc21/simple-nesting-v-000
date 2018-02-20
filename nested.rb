@@ -83,7 +83,7 @@ def adding_matz
      }
 
 programmer_hash[:yukihiro_matsumoto] = {:known_for=> "python",
-:languages=>"FORTRAN", "B"}
+:languages=>["FORTRAN", "B"]}
 programmer_hash
 
 end
